@@ -1,8 +1,7 @@
-### Who/What is fi4f?
+### _"F is for Friends"_ 
+_(or alternatively **"fi4f is for friends"**)_
 
-**fi4f** stands for _"F is for Friends"_ (or alternatively _"fi4f is for friends"_). 
-
-Because we believe that **Play is for Everyone**. 
+We believe that **Play is for Everyone**.
 
 We make tools and games _by humans for humans_.
 
