@@ -5,5 +5,7 @@
 Because we believe that **Play is for Everyone**. 
 
 We make tools and games _by humans for humans_.
+
 No subscriptions, no tracking, no ads, no corporate weirdness. 
+
 Just _you and your friends_.
